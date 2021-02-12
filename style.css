@@ -469,14 +469,14 @@
 @media screen and (max-width: 1300px) {
   .posts-wrapper{
     grid-template-columns: 1fr;
-    font-size: 4px;
+ 
   }
   .post{
     margin: 0 10px 10px 2px;
   }
   .portfolio__projects {
         grid-template-columns: 1fr;
-        font-size: 12px;
+  
      }
   .portfolio {
     padding: 30px;
